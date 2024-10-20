@@ -1,7 +1,7 @@
 ![Git](https://user-images.githubusercontent.com/101726335/194794235-448961fd-9973-4121-846c-8652bbf36f44.gif)
 
 <p>
-<h1 align="center">Truong Ann's Github Page </h1>
+<h1 align="center">TRƯỜNG ANN GITHUB'S PAGE </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Thương cho roi cho vọt </h3>
 <h3 align="center">Ghét cho ngọt cho Bùi Trường Ann</h3>
@@ -24,6 +24,9 @@
 </table>
       
 ## 📫 Contact and Social Media:
+
+📨 Email: anbt.personal@gmail.com
+
 <p align="center">
   <a href="https://www.facebook.com/KeystarVn.140/" alt="Facebook">
     <img src="https://img.icons8.com/?size=50&id=64151&format=png" target="_blank" />
@@ -35,7 +38,7 @@
     <img src="https://img.icons8.com/clouds/50/000000/youtube-play.png"/>
   </a>
   
-  
+
 </p>
 
 ## 🧩 Skills:
