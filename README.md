@@ -42,6 +42,16 @@
 </p>
 
 ## 🧩 Skills:
+
+- Language:
+  - Francé
+  - English
+  - Vietnamese 
+  - Chinese
+ 
+
+    
+- Programming: 
 <p align="center">
 <img src="https://img.icons8.com/?size=50&id=13441&format=png"/>
 <img src="https://img.icons8.com/?size=50&id=40670&format=png"/>
