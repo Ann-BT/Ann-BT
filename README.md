@@ -28,7 +28,7 @@
 📨 Email: anbt.personal@gmail.com
 
 <p align="center">
-  <a href="https://www.facebook.com/KeystarVn.140/" alt="Facebook">
+  <a href="https://www.facebook.com/merlinthegreatmage" alt="Facebook">
     <img src="https://img.icons8.com/?size=50&id=64151&format=png" target="_blank" />
   </a> 
   <a href="https://www.instagram.com/peichangann/" alt="Instagram">
@@ -37,17 +37,18 @@
   <a href="https://www.youtube.com/channel/UCxxEezUKH5b57XOwSyciVoQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/clouds/50/000000/youtube-play.png"/>
   </a>
-  
+   <a href="https://www.notion.so/peichangann/Merlin-23b82324f374802cbf1bdae4865a1b3f?source=copy_link" alt="Notion">
+    <img src="https://img.icons8.com/?size=50&id=PaNR1klpXeVc&format=png&color=000000" target="_blank" />
 
 </p>
 
 ## 🧩 Skills:
 
 - Language:
-  - Francé
-  - English
-  - Vietnamese 
-  - Chinese
+  - Francé: TCF A2
+  - English: second language
+  - Vietnamese: native language
+  - Chinese: 我正在学习中文
  
 
     
@@ -56,15 +57,9 @@
 <img src="https://img.icons8.com/?size=50&id=13441&format=png"/>
 <img src="https://img.icons8.com/?size=50&id=40670&format=png"/>
 <img src="https://img.icons8.com/?size=50&id=40669&format=png"/>
-<img src="https://img.icons8.com/?size=50&id=55251&format=png"/>
 <img src="https://img.icons8.com/?size=50&id=13679&format=png"/>
 
 </p>
 
 
-
-
-# Certificates:
-<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d778ebb-8d0d-428f-bbc4-17dc0f9bdaeb/df42qvo-f0339273-ed3a-4b35-b8e6-4a517e79e32b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkNzc4ZWJiLThkMGQtNDI4Zi1iYmM0LTE3ZGMwZjliZGFlYlwvZGY0MnF2by1mMDMzOTI3My1lZDNhLTRiMzUtYjhlNi00YTUxN2U3OWUzMmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MGKpB33BvYcf0RJp2GkDARkVdN1KnEE5jV1OcspqHp4"/></p>
-<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d778ebb-8d0d-428f-bbc4-17dc0f9bdaeb/dffovu8-20f0ef2c-acc6-4423-8753-598ac55a4a60.png/v1/fill/w_1054,h_758,q_70,strp/bi_trng_an_html__css_certificate_by_Ann-BT_dffovu8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTIxIiwicGF0aCI6IlwvZlwvN2Q3NzhlYmItOGQwZC00MjhmLWJiYzQtMTdkYzBmOWJkYWViXC9kZmZvdnU4LTIwZjBlZjJjLWFjYzYtNDQyMy04NzUzLTU5OGFjNTVhNGE2MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vaQXOtoxUSfb5Swfbf6ashbAJDU_iqiP7D8BkNYNPms"/></p>
 
