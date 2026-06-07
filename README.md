@@ -52,134 +52,121 @@ Programming: <p align="center"> <img src="https://img.icons8.com/?size=50&id=134
 
 ## 📜 Certifications & Achievements:
 
-<details>
-<summary><b>Google Cybersecurity Professional Certificate</b> — 9 courses · Coursera · Dec 2025</summary>
-<br/>
-
+### Google Cybersecurity Professional Certificate — 9 courses · Coursera · Dec 2025
 > Verify: https://coursera.org/verify/professional-cert/8N7V01K25JQK
 
 <div style="overflow-x: auto;">
 <table>
   <tr>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_cybersecurity.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_cybersecurity.png?raw=true" width="480"/>
       <br/><sub>Google Cybersecurity — Professional Certificate</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/cert_coursera_.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/cert_coursera_.png?raw=true" width="480"/>
       <br/><sub>Foundations of Cybersecurity</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_play_it_safe.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_play_it_safe.png?raw=true" width="480"/>
       <br/><sub>Play It Safe: Manage Security Risks</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_connect_and_protect.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_connect_and_protect.png?raw=true" width="480"/>
       <br/><sub>Connect and Protect: Networks and Network Security</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_Tool_of_trade.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_Tool_of_trade.png?raw=true" width="480"/>
       <br/><sub>Tools of the Trade: Linux and SQL</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_threats.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_threats.png?raw=true" width="480"/>
       <br/><sub>Assets, Threats, and Vulnerabilities</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_Sound_of_alarm.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_Sound_of_alarm.png?raw=true" width="480"/>
       <br/><sub>Sound the Alarm: Detection and Response</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_python.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_python.png?raw=true" width="480"/>
       <br/><sub>Automate Cybersecurity Tasks with Python</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_put_it_to_work.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_put_it_to_work.png?raw=true" width="480"/>
       <br/><sub>Put It to Work: Prepare for Cybersecurity Jobs</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_AI.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_AI.png?raw=true" width="480"/>
       <br/><sub>Accelerate Your Job Search with AI</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_CISO.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Coursera_CISO.png?raw=true" width="480"/>
       <br/><sub>Office of the CISO Institute: Cybersecurity Essentials</sub>
     </td>
   </tr>
 </table>
 </div>
-</details>
 
 ---
 
-<details>
-<summary><b>Fortinet Certifications</b> — NSE · Cybersecurity · FortiGate</summary>
-<br/>
+### Fortinet Certifications — NSE · Cybersecurity · FortiGate
 
 <div style="overflow-x: auto;">
 <table>
   <tr>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Fortinet_Certified_Associate_in_Cybersecurity.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Fortinet_Certified_Associate_in_Cybersecurity.png?raw=true" width="480"/>
       <br/><sub>Fortinet Certified Associate in Cybersecurity</sub>
       <br/><sup>Valid until Dec 17, 2027 · #7698225744TA</sup>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Fortinet_Certified_Fundamentals_in_Cybersecurity.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Fortinet_Certified_Fundamentals_in_Cybersecurity.png?raw=true" width="480"/>
       <br/><sub>Fortinet Certified Fundamentals in Cybersecurity</sub>
       <br/><sup>Valid until Dec 17, 2027 · #8667986744TA</sup>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/FortiGate_7_6_Operator_Self-Paced.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/FortiGate_7_6_Operator_Self-Paced.png?raw=true" width="480"/>
       <br/><sub>FortiGate 7.6 Operator</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Getting_Started_in_Cybersecurity_3_0.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Getting_Started_in_Cybersecurity_3_0.png?raw=true" width="480"/>
       <br/><sub>Getting Started in Cybersecurity 3.0</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Technical_Introduction_to_Cybersecurity_3_0.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Technical_Introduction_to_Cybersecurity_3_0.png?raw=true" width="480"/>
       <br/><sub>Technical Introduction to Cybersecurity 3.0</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/NSE_1.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/NSE_1.png?raw=true" width="480"/>
       <br/><sub>Introduction to the Threat Landscape 3.0</sub>
     </td>
   </tr>
 </table>
 </div>
-</details>
 
 ---
 
-<details>
-<summary><b>Cisco Networking Academy</b> — Network Defense · Dec 2025</summary>
-<br/>
+### Cisco Networking Academy — Network Defense · Dec 2025
 
 <p align="center">
-<img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Network_Defense.png?raw=true" width="500"/>
+<img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/Network_Defense.png?raw=true" width="550"/>
 <br/><sub>Cisco: Network Defense — Dec 22, 2025</sub>
 </p>
-</details>
 
 ---
 
-<details>
-<summary><b>F8 — fullstack.edu.vn</b> — HTML & CSS · Ubuntu with WSL</summary>
-<br/>
+### F8 — fullstack.edu.vn — HTML & CSS · Ubuntu with WSL
 
 <div style="overflow-x: auto;">
 <table>
   <tr>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/cert_html.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/cert_html.png?raw=true" width="480"/>
       <br/><sub>HTML & CSS — Oct 12, 2022</sub>
     </td>
-    <td align="center" valign="top" style="min-width: 380px;">
-      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/cert_wsl.png?raw=true" width="380"/>
+    <td align="center" valign="top" style="min-width: 480px;">
+      <img src="https://github.com/Ann-BT/Ann-BT/blob/main/certs/cert_wsl.png?raw=true" width="480"/>
       <br/><sub>Ubuntu with WSL — Feb 28, 2025</sub>
     </td>
   </tr>
 </table>
 </div>
-</details>
