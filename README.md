@@ -1,124 +1,56 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/101726335/194794235-448961fd-9973-4121-846c-8652bbf36f44.gif" alt="Git Banner" width="100%" />
-</p>
-
-<h1 align="center">TRƯỜNG ANN (MERLIN) GITHUB'S PAGE</h1>
-
-<h3 align="center"><i>Thương cho roi cho vọt</i></h3>
-<h3 align="center"><i>Ghét cho ngọt cho Bùi Trường Ann</i></h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ann-BT&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
-
-<table align="center" style="width: 100%; border: none;">
-  <tr style="border: none;">
-    <td align="center" valign="middle" style="width: 35%; border: none;">
-      <img src="https://i.pinimg.com/736x/02/ef/3b/02ef3b7ef1de818f825c168f45ac213a.jpg" alt="Merlin Profile" width="220px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.15); border: 2px solid #555;" />
+![Git](https://user-images.githubusercontent.com/101726335/194794235-448961fd-9973-4121-846c-8652bbf36f44.gif)
+<p>
+<h1 align="center">TRƯỜNG ANN GITHUB'S PAGE </h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h3 align="center">Thương cho roi cho vọt </h3>
+<h3 align="center">Ghét cho ngọt cho Bùi Trường Ann</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ann-BT" alt="Ann-BT" />
+<table align="center" style="width:100%; height:100%;">
+  <tr>
+    <td>    <img style="width:100%; height:200px;" src="https://i.pinimg.com/736x/02/ef/3b/02ef3b7ef1de818f825c168f45ac213a.jpg" target="_blank" />
     </td>
-    <td valign="top" style="width: 65%; border: none; padding-left: 20px;">
-      <h3>> whoami</h3>
-      <p>
-        Cybersecurity student building real tools, not just studying theory. My focus is <b>Blue Team</b> — threat detection, log analysis, behavioral analysis, and SOC workflows. Currently interning at <b>ICTLab USTH</b> and actively developing SIDERIS.
-      </p>
-      <ul>
-        <li><b>Name:</b> Bùi Trường An</li>
-        <li><b>Date of Birth:</b> 07/07/2004</li>
-        <li><b>Education:</b> <a href="https://usth.edu.vn" target="_blank">University of Science and Technology of Hanoi (USTH)</a></li>
-        <li><b>Majoring:</b> Cyber Security (Top 3 Year 1, 3-year scholarship)</li>
-        <li><b>OS:</b> CachyOS (Arch Linux) — daily driver, CLI-native</li>
-        <li><b>Languages:</b> Comfortable working entirely in English</li>
-      </ul>
-    </td>
+    <td>
+      <p>🧙‍♂️ Personal information:
+- 💁 Name: Bùi Trường An
+- 📅 Date of birth: 07/07/2004
+- ✍ Education: [University of Science and Technology of Hanoi - USTH ](https://usth.edu.vn).
+- 🌱 Majoring: **Cypher Security.**</p>
+    </td>  
   </tr>
 </table>
 
----
-
-## Contact & Social Media
-
+## 📫 Contact and Social Media:
+📨 Email: anbt.personal@gmail.com
 <p align="center">
-  <a href="mailto:anbt.personal@gmail.com"><img src="https://img.shields.io/badge/Email-anbt.personal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ann-bt/?locale=en"><img src="https://img.shields.io/badge/LinkedIn-ann--bt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/merlinthegreatmage"><img src="https://img.shields.io/badge/Facebook-Merlin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/peichangann/"><img src="https://img.shields.io/badge/Instagram-peichangann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCxxEezUKH5b57XOwSyciVoQ"><img src="https://img.shields.io/badge/YouTube-Merlin-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.notion.so/peichangann/Merlin-23b82324f374802cbf1bdae4865a1b3f?source=copy_link"><img src="https://img.shields.io/badge/Notion-Merlin-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://www.facebook.com/merlinthegreatmage" alt="Facebook">
+    <img src="https://img.icons8.com/?size=50&id=64151&format=png" target="_blank" />
+  </a> 
+  <a href="https://www.instagram.com/peichangann/" alt="Instagram">
+    <img src="https://img.icons8.com/?size=50&id=hFoVFpm6gl9A&format=png"/>
+  </a> 
+  <a href="https://www.youtube.com/channel/UCxxEezUKH5b57XOwSyciVoQ" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/clouds/50/000000/youtube-play.png"/>
+  </a>
+  <a href="https://www.notion.so/peichangann/Merlin-23b82324f374802cbf1bdae4865a1b3f?source=copy_link" alt="Notion">
+    <img src="https://img.icons8.com/?size=50&id=PaNR1klpXeVc&format=png&color=000000" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/ann-bt/?locale=en" alt="LinkedIn">
+    <img src="https://img.icons8.com/?size=50&id=8808&format=png" target="_blank" />
+  </a>
 </p>
+
+## 🧩 Skills:
+- Language:
+  - Francé: TCF A2
+  - English: second language
+  - Vietnamese: native language
+  - Chinese: 我正在学习中文
+
+Programming: <p align="center"> <img src="https://img.icons8.com/?size=50&id=13441&format=png"/> <img src="https://img.icons8.com/?size=50&id=40670&format=png"/> <img src="https://img.icons8.com/?size=50&id=40669&format=png"/> <img src="https://img.icons8.com/?size=50&id=13679&format=png"/> </p>
 
 ---
 
-## Core Stack & Skills
-
-### Security & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-167DK8?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-2096F3?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-00A4EF?style=flat-square&logo=wazuh&logoColor=white" />
-</p>
-
-- **Hands-on Security:** `Wireshark` `Burp Suite` `OWASP ZAP` `PEStudio` `IDA Pro` `Process Monitor` `Wazuh`
-- **Practices:** Threat detection · Behavioral analysis · Log & network traffic analysis · Static malware triage · Web application security (OWASP Top 10) · Penetration testing · Digital forensics
-
-### Development & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-
-- **Programming & Frameworks:** Node.js · Express.js · React/Vite · Python · Redis · Docker · C/C++
-- **Favorite Languages (Icons8):**
-  <p align="left">
-    <img src="https://img.icons8.com/?size=50&id=13441&format=png" alt="Python" />
-    <img src="https://img.icons8.com/?size=50&id=40670&format=png" alt="C++" />
-    <img src="https://img.icons8.com/?size=50&id=40669&format=png" alt="C" />
-    <img src="https://img.icons8.com/?size=50&id=13679&format=png" alt="HTML" />
-  </p>
-
-### Languages
-- **Vietnamese:** Native
-- **English:** B2 (certified by USTH) / Professional
-- **French:** TCF A2
-- **Chinese:** 我正在学习中文 (Learning)
-
----
-
-## Featured Work
-
-### SIDERIS
-> **Real-time Web Attack Detection & Behavioral Analysis Platform**
-
-A production-style sidecar WAF and SOC platform built from scratch. It reverse-proxies existing web apps, injects a client-side telemetry beacon, and scores every session in real time.
-
-| Component | What it does |
-|---|---|
-| `agent.js` | Client-side beacon — keystroke dynamics, cursor liveness, bot fingerprinting |
-| **Detection worker** | Consumes Redis Streams, applies **Impact × Confidence × Persistence** heuristic scoring |
-| **Guard service** | Atomic Redis Lua enforcement — block / challenge / rate-limit with dynamic TTL penalty scaling |
-| **SOC Dashboard** | Live session monitoring, manual overrides, attack category charts, report download |
-
-- **Stack:** Node.js · React/Vite · Redis Streams · Express.js · Docker  
-- **Coverage:** 14 attack signatures · 13 compound bonus rules · 5 enforcement tiers · aligned with OWASP Top 10
-
-[![SIDERIS](https://img.shields.io/badge/GitHub-SIDERIS-181717?style=for-the-badge&logo=github)](https://github.com/Ann-BT/SIDERIS)
-
-### Other Projects
-- **Phish Shield** — Browser extension with ML-based phishing URL detection (Random Forest + blacklist/whitelist)
-- **Chronos Pentest (VulnHub)** — Full recon-to-root: broken access control via User-Agent, unauthenticated RCE via command injection, privilege escalation via sudo misconfiguration
-- **CVE-1999-0497** — Reproduced anonymous FTP login vulnerability in lab, performed network scan, remediated with firewall rules
-- **Secure SMS OTP System** — 2FA service using Python Flask, Redis (TTL-enforced OTP), Twilio
-
----
-
-## Certifications & Achievements
+## 📜 Certifications & Achievements:
 
 <details>
 <summary><b>Google Cybersecurity Professional Certificate</b> — 9 courses · Coursera · Dec 2025</summary>
@@ -251,7 +183,3 @@ A production-style sidecar WAF and SOC platform built from scratch. It reverse-p
 </table>
 </div>
 </details>
-
----
-
-<p align="center"><i>"Security is not a product, but a process."</i></p>
