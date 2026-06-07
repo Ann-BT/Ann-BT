@@ -1,7 +1,7 @@
 ![Git](https://user-images.githubusercontent.com/101726335/194794235-448961fd-9973-4121-846c-8652bbf36f44.gif)
 
 <p>
-<h1 align="center">TRƯỜNG ANN GITHUB'S PAGE </h1>
+<h1 align="center"> Please hire me, i can work</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Thương cho roi cho vọt </h3>
 <h3 align="center">Ghét cho ngọt cho Bùi Trường Ann</h3>
@@ -15,8 +15,8 @@
     <td>
       <p>🧙‍♂️ Personal information:
 
-- 💁 Name: Bùi Trường An
-- 📅 Date of birth: 07/07/2004
+- 💁 Name: Bùi Trường An (Merlin)
+- 💻 Job: Me no Job - Im unemployed
 - ✍ Education: [University of Science and Technology of Hanoi - USTH ](https://usth.edu.vn).
 - 🌱 Majoring: **Cypher Security.**</p>
     </td>
@@ -37,8 +37,8 @@
   <a href="https://www.youtube.com/channel/UCxxEezUKH5b57XOwSyciVoQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/clouds/50/000000/youtube-play.png"/>
   </a>
-   <a href="https://www.notion.so/peichangann/Merlin-23b82324f374802cbf1bdae4865a1b3f?source=copy_link" alt="Notion">
-    <img src="https://img.icons8.com/?size=50&id=PaNR1klpXeVc&format=png&color=000000" target="_blank" />
+   <a href="https://www.linkedin.com/in/ann-bt/?locale=en" alt="Linkedin">
+    <img src="https://img.icons8.com/clouds/50/linkedin.png" target="_blank" />
 
 </p>
 
@@ -58,5 +58,13 @@
 <img src="https://img.icons8.com/?size=50&id=40670&format=png"/>
 <img src="https://img.icons8.com/?size=50&id=40669&format=png"/>
 <img src="https://img.icons8.com/?size=50&id=13679&format=png"/>
+<img src="https://img.icons8.com/fluency/48/console.png"/>
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+<img src="https://img.icons8.com/dusk/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/redis--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/docker.png"/>
 
+<img src="https://img.icons8.com/officel/40/react.png"/>
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
 </p>
