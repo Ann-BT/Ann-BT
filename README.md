@@ -1,81 +1,127 @@
-<h1 align="center">Bùi Trường An (Merlin)</h1>
 <p align="center">
-  <b>Cybersecurity Student · Aspiring SOC Analyst · Blue Team</b><br/>
-  University of Science and Technology of Hanoi (USTH) · Cầu Giấy, Hà Nội
+  <img src="https://user-images.githubusercontent.com/101726335/194794235-448961fd-9973-4121-846c-8652bbf36f44.gif" alt="Git Banner" width="100%" />
 </p>
 
+<h1 align="center">TRƯỜNG ANN (MERLIN) GITHUB'S PAGE</h1>
 <p align="center">
-  <a href="mailto:anbt.personal@gmail.com"><img src="https://img.shields.io/badge/Email-anbt.personal%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ann-bt"><img src="https://img.shields.io/badge/LinkedIn-ann--bt-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/merlinthegreatmage"><img src="https://img.shields.io/badge/Facebook-Merlin-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Ann-BT&style=flat-square&color=grey" alt="profile views"/>
+  <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" alt="Vietnam Flag" />
+</p>
+
+<h3 align="center"><i>Thương cho roi cho vọt</i></h3>
+<h3 align="center"><i>Ghét cho ngọt cho Bùi Trường Ann</i> 🍬</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ann-BT&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## `> whoami`
-
-Cybersecurity student building real tools, not just studying theory.  
-My focus is **Blue Team** — threat detection, log analysis, behavioral analysis, and SOC workflows.  
-Currently interning at **ICTLab USTH** and actively developing [SIDERIS](https://github.com/Ann-BT/SIDERIS).
-
-- `[edu]` Bachelor in Cyber Security @ USTH — Top 3 Year 1, 3-year scholarship
-- `[focus]` Detection engineering, WAF design, and security automation
-- `[os]` CachyOS (Arch Linux) — daily driver, CLI-native
-- `[lang]` Comfortable working entirely in English
+<table align="center" style="width: 100%; border: none;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" style="width: 35%; border: none;">
+      <img src="https://i.pinimg.com/736x/02/ef/3b/02ef3b7ef1de818f825c168f45ac213a.jpg" alt="Merlin Profile" width="220px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.15); border: 2px solid #555;" />
+    </td>
+    <td valign="top" style="width: 65%; border: none; padding-left: 20px;">
+      <h3>🧙‍♂️ > whoami</h3>
+      <p>
+        Cybersecurity student building real tools, not just studying theory. My focus is <b>Blue Team</b> — threat detection, log analysis, behavioral analysis, and SOC workflows. Currently interning at <b>ICTLab USTH</b> and actively developing SIDERIS.
+      </p>
+      <ul>
+        <li><b>💁 Name:</b> Bùi Trường An</li>
+        <li><b>📅 Date of Birth:</b> 07/07/2004</li>
+        <li><b>🎓 Education:</b> <a href="https://usth.edu.vn" target="_blank">University of Science and Technology of Hanoi (USTH)</a></li>
+        <li><b>🌱 Majoring:</b> Cyber Security (Top 3 Year 1, 3-year scholarship)</li>
+        <li><b>💻 OS:</b> CachyOS (Arch Linux) — daily driver, CLI-native</li>
+        <li><b>🗣️ Languages:</b> Comfortable working entirely in English</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `> cat SIDERIS.md`
+## 📬 Contact & Social Media
 
+<p align="center">
+  <a href="mailto:anbt.personal@gmail.com"><img src="https://img.shields.io/badge/Email-anbt.personal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ann-bt"><img src="https://img.shields.io/badge/LinkedIn-ann--bt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/merlinthegreatmage"><img src="https://img.shields.io/badge/Facebook-Merlin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/peichangann/"><img src="https://img.shields.io/badge/Instagram-peichangann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCxxEezUKH5b57XOwSyciVoQ"><img src="https://img.shields.io/badge/YouTube-Merlin-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.notion.so/peichangann/Merlin-23b82324f374802cbf1bdae4865a1b3f?source=copy_link"><img src="https://img.shields.io/badge/Notion-Merlin-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚙️ Core Stack & Skills
+
+### 🧩 Security & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-167DK8?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-2096F3?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-00A4EF?style=flat-square&logo=wazuh&logoColor=white" />
+</p>
+
+- **Hands-on Security:** `Wireshark` `Burp Suite` `OWASP ZAP` `PEStudio` `IDA Pro` `Process Monitor` `Wazuh`
+- **Practices:** Threat detection · Behavioral analysis · Log & network traffic analysis · Static malware triage · Web application security (OWASP Top 10) · Penetration testing · Digital forensics
+
+### 💻 Development & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+- **Programming & Frameworks:** Node.js · Express.js · React/Vite · Python · Redis · Docker · C/C++
+- **Favorite Languages (Icons8):**
+  <p align="left">
+    <img src="https://img.icons8.com/?size=50&id=13441&format=png" alt="Python" />
+    <img src="https://img.icons8.com/?size=50&id=40670&format=png" alt="C++" />
+    <img src="https://img.icons8.com/?size=50&id=40669&format=png" alt="C" />
+    <img src="https://img.icons8.com/?size=50&id=13679&format=png" alt="HTML" />
+  </p>
+
+### 🗣️ Languages
+- **Vietnamese:** Native 🇻🇳
+- **English:** B2 (certified by USTH) / Professional 🇬🇧
+- **French:** TCF A2 🇫🇷
+- **Chinese:** 我正在学习中文 (Learning) 🇨🇳
+
+---
+
+## 🛠️ Featured Work
+
+### 🛡️ SIDERIS
 > **Real-time Web Attack Detection & Behavioral Analysis Platform**
 
-A production-style sidecar WAF and SOC platform I built from scratch.  
-Reverse-proxies existing web apps, injects a client-side telemetry beacon, and scores every session in real time.
+A production-style sidecar WAF and SOC platform built from scratch. It reverse-proxies existing web apps, injects a client-side telemetry beacon, and scores every session in real time.
 
 | Component | What it does |
 |---|---|
 | `agent.js` | Client-side beacon — keystroke dynamics, cursor liveness, bot fingerprinting |
-| Detection worker | Consumes Redis Streams, applies **Impact × Confidence × Persistence** heuristic scoring |
-| Guard service | Atomic Redis Lua enforcement — block / challenge / rate-limit with dynamic TTL penalty scaling |
-| SOC Dashboard | Live session monitoring, manual overrides, attack category charts, report download |
+| **Detection worker** | Consumes Redis Streams, applies **Impact × Confidence × Persistence** heuristic scoring |
+| **Guard service** | Atomic Redis Lua enforcement — block / challenge / rate-limit with dynamic TTL penalty scaling |
+| **SOC Dashboard** | Live session monitoring, manual overrides, attack category charts, report download |
 
-**Stack:** Node.js · React/Vite · Redis Streams · Express.js · Docker  
-**Coverage:** 14 attack signatures · 13 compound bonus rules · 5 enforcement tiers · aligned with OWASP Top 10
+- **Stack:** Node.js · React/Vite · Redis Streams · Express.js · Docker  
+- **Coverage:** 14 attack signatures · 13 compound bonus rules · 5 enforcement tiers · aligned with OWASP Top 10
 
 [![SIDERIS](https://img.shields.io/badge/GitHub-SIDERIS-181717?style=for-the-badge&logo=github)](https://github.com/Ann-BT/SIDERIS)
 
----
-
-## `> ls projects/`
-
-**Phish Shield** — Browser extension with ML-based phishing URL detection (Random Forest + blacklist/whitelist)
-
-**Chronos Pentest (VulnHub)** — Full recon-to-root: broken access control via User-Agent, unauthenticated RCE via command injection, privilege escalation via sudo misconfiguration
-
-**CVE-1999-0497** — Reproduced anonymous FTP login vulnerability in lab, performed network scan, remediated with firewall rules
-
-**Secure SMS OTP System** — 2FA service using Python Flask, Redis (TTL-enforced OTP), Twilio
+### 📂 Other Projects
+- **Phish Shield** — Browser extension with ML-based phishing URL detection (Random Forest + blacklist/whitelist)
+- **Chronos Pentest (VulnHub)** — Full recon-to-root: broken access control via User-Agent, unauthenticated RCE via command injection, privilege escalation via sudo misconfiguration
+- **CVE-1999-0497** — Reproduced anonymous FTP login vulnerability in lab, performed network scan, remediated with firewall rules
+- **Secure SMS OTP System** — 2FA service using Python Flask, Redis (TTL-enforced OTP), Twilio
 
 ---
 
-## `> cat skills.txt`
-
-**Security (hands-on):**  
-`Wireshark` `Burp Suite` `OWASP ZAP` `PEStudio` `IDA Pro` `Process Monitor` `Wazuh`
-
-**Practices:**  
-Threat detection · Behavioral analysis · Log & network traffic analysis · Static malware triage · Web application security (OWASP Top 10) · Penetration testing · Digital forensics
-
-**Development:**  
-`Node.js` `JavaScript` `Python` `Redis` `Docker` `Express.js` `React`
-
-**OS:**  
-Linux (CachyOS/Arch — daily driver) · Windows
-
----
-
-## `> ls certs/`
+## 📜 Certifications & Achievements
 
 <details>
 <summary><b>Google Cybersecurity Professional Certificate</b> — 9 courses · Coursera · Dec 2025</summary>
@@ -216,12 +262,6 @@ Linux (CachyOS/Arch — daily driver) · Windows
 </tr>
 </table>
 </details>
-
----
-
-## `> locale`
-
-English — B2 (certified by USTH) &nbsp;|&nbsp; French — A2 (TCF) &nbsp;|&nbsp; Vietnamese — Native
 
 ---
 
